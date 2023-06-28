@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "My name is olamide"
+
+NAME="olamide"
+echo "My name is $NAME"
+
